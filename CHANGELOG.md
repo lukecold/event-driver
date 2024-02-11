@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/lukecold/event-driver/compare/v0.1.0...v0.2.0) (2024-02-11)
+
+
+### Features
+
+* Sync the github.com/lukecold/event-driver version to extensions ([#33](https://github.com/lukecold/event-driver/issues/33)) ([88ed501](https://github.com/lukecold/event-driver/commit/88ed50113460b35babf33006eb178363e37c8335))
+
 ## [0.1.0](https://github.com/lukecold/event-driver/compare/0.0.3...v0.1.0) (2024-02-10)
 
 
